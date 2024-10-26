@@ -1,0 +1,19 @@
+{
+  "name": "job-scheduler",
+  "version": "1.0.0",
+  "description": "A simple package that helps schedule and perform tasks.",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "schedule",
+    "job",
+    "interval"
+  ],
+  "author": "Jude Olajumoke",
+  "license": "ISC"
+}
