@@ -33,6 +33,9 @@ scheduler.runJob("greet");
 
 // Stop a running job
 scheduler.stopJob("greet");
+
+// Delete a specific job
+scheduler.deleteJob("greet");
 ```
 
 ### Scheduling a Job
@@ -59,6 +62,14 @@ Use `stopJob` to stop a running job by name. This will clear the interval and up
 
 ```javascript
 scheduler.stopJob("jobName");
+```
+
+### Delete a scheduled job
+
+The `deleteJob` method allows you remove a specific job from the json file based on the specified name.
+
+```javascript
+scheduler.deleteJob("jobName");
 ```
 
 ## API Reference
