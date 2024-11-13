@@ -1,5 +1,5 @@
 {
-  "name": "job-scheduler",
+  "name": "@judeoscar/job-scheduler",
   "version": "1.0.0",
   "description": "A simple package that helps schedule and perform tasks.",
   "main": "app.js",
