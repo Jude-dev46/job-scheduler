@@ -12,7 +12,7 @@ A lightweight Node.js job scheduling package to create, run, and manage recurrin
 ## Installation
 
 ```bash
-npm install job-scheduler
+npm install @judeoscar/job-scheduler
 ```
 
 ## Usage
